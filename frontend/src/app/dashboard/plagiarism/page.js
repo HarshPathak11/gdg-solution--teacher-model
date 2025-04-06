@@ -483,9 +483,7 @@ export default function PlagiarismPage() {
                       
                       <div>
                         <h3 className="font-medium">Use Quotation Marks</h3>
-                        <p className="text-sm text-muted-foreground mt-1">
-                          Place direct quotes in quotation marks and include proper attribution to the original source.
-                        </p>
+                        
                       </div>
                     </div>
                   </div>
