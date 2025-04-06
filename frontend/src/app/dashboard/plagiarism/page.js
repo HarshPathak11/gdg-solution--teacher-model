@@ -498,7 +498,7 @@ export default function PlagiarismPage() {
                 <Search className="h-16 w-16 text-muted-foreground mb-4" />
                 <h3 className="text-lg font-medium mb-2">No Results Available</h3>
                 <p className="text-muted-foreground text-center max-w-md">
-                  You haven't checked any document for plagiarism yet. Go to the "Check Document" tab to analyze your work.
+                  You haven not checked any document for plagiarism yet. Go to the Check Document tab to analyze your work.
                 </p>
                 <Button className="mt-4" onClick={() => setSelectedTab("check")}>
                   Check Document

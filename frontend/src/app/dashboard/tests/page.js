@@ -557,7 +557,7 @@ export default function TestsPage() {
               <div className="flex-1">
                 <h3 className="font-medium">Physics Formula Sheet</h3>
                 <p className="text-sm text-muted-foreground mt-1">
-                  All the formulas you'll need for the Physics Final Exam.
+                  All the formulas you will need for the Physics Final Exam.
                 </p>
                 <div className="flex items-center mt-2">
                   <BookOpen className="h-4 w-4 text-muted-foreground mr-1" />

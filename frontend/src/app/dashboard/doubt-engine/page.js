@@ -31,7 +31,8 @@ import {
   Users,
   Lightbulb,
   ThumbsUp,
-  ThumbsDown
+  ThumbsDown,
+  Upload
 } from "lucide-react";
 import { Textarea } from "@/components/ui/textarea";
 import { Input } from "@/components/ui/input";
@@ -302,7 +303,7 @@ export default function DoubtEnginePage() {
                 />
                 
                 <div className="text-xs text-muted-foreground">
-                  Tip: Include relevant details and be clear about what you're trying to understand.
+                  Tip: Include relevant details and be clear about what you are trying to understand.
                 </div>
               </div>
               

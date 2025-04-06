@@ -318,7 +318,7 @@ export default function ResultsPage() {
             <div className="text-2xl font-bold">{semesterGPA}</div>
             <div className="flex items-center text-xs text-green-600">
               <Star className="h-3 w-3 mr-1" />
-              <span>Dean's List Eligible</span>
+              <span>Dean List Eligible</span>
             </div>
           </CardContent>
         </Card>
@@ -797,9 +797,9 @@ export default function ResultsPage() {
               </div>
               
               <div className="flex-1">
-                <h3 className="font-medium text-blue-800">Dean's List Eligible</h3>
+                <h3 className="font-medium text-blue-800">Dean List Eligible</h3>
                 <p className="text-sm text-blue-700 mt-1">
-                  Your current semester GPA qualifies you for the Dean's List recognition.
+                  Your current semester GPA qualifies you for the Dean List recognition.
                 </p>
               </div>
             </div>

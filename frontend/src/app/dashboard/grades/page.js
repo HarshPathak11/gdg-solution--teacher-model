@@ -163,7 +163,7 @@ export default function ResultPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-sm text-gray-700">
-                  "Excellent analytical skills and consistent performance throughout the semester. Keep up the great work!"
+                  Excellent analytical skills and consistent performance throughout the semester. Keep up the great work!
                 </p>
                 <div className="mt-2 flex items-center space-x-2">
                   <img
@@ -183,7 +183,7 @@ export default function ResultPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-sm text-gray-700">
-                  "Your project presentation was top-notch and really inspired the class to aim higher."
+                  Your project presentation was top-notch and really inspired the class to aim higher.
                 </p>
                 <div className="mt-2 flex items-center space-x-2">
                   <img
