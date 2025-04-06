@@ -754,7 +754,7 @@ export default function ResultsPage() {
                     </div>
                     
                     <div className="pl-4 border-l-2 border-primary/50 italic text-sm">
-                      "{result.instructorFeedback}"
+                      {result.instructorFeedback}
                     </div>
                     
                     <div className="flex justify-between text-sm text-muted-foreground">
