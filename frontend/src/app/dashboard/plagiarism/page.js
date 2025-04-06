@@ -426,7 +426,7 @@ export default function PlagiarismPage() {
                         </div>
                         
                         <div className="p-3 bg-muted/30 rounded text-sm italic">
-                          "{source.matchedText}"
+                          {source.matchedText}
                         </div>
                       </div>
                     ))}
